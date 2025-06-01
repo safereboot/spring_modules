@@ -35,6 +35,12 @@
         <module>spring_security</module>
         <module>springHibernateSQL</module>
     </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
