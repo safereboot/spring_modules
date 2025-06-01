@@ -33,6 +33,7 @@
     <modules>
         <module>spring_nosql</module>
         <module>spring_security</module>
+        <module>springHibernateSQL</module>
     </modules>
     <dependencies>
         <dependency>
